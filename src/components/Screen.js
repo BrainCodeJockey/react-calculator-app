@@ -6,7 +6,6 @@ const Screen = () => {
 
   const scaledTextStyle = {
     fontSize: '1.2rem',
-    /* oder */
     transform: 'scale(1.2)',
   };
 
